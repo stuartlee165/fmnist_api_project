@@ -1,0 +1,16 @@
+# Pytorch 
+torch
+torchvision
+
+# Flask
+flask
+flask_httpauth
+gunicorn
+Bootstrap-Flask
+Flask
+Flask-WTF
+Jinja2
+
+# Google
+google-cloud
+google-cloud-storage 
